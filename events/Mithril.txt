@@ -1,0 +1,48 @@
+
+
+
+
+add_namespace = mithril
+
+
+
+country_event = {
+	id = mithril.1
+	title = mithril.1.t
+	desc = mithril.1.d
+	hidden = yes
+	trigger = {
+		OR = {
+			ROOT = {check_variable = {resource_produced@aluminium > 0}}
+			ROOT = {check_variable = {resource_imported@aluminium > 0}}
+			}
+			}
+	immediate = {
+						ROOT = {set_country_flag = can_build_mithril_equip}
+
+	}
+	option = {
+		name = mithril.1.a		
+	}
+	}
+
+
+country_event = {
+	id = mithril.2
+	title = mithril.2.t
+	desc = mithril.2.d
+	hidden = yes
+	trigger = {
+		ROOT = {has_country_flag = can_build_mithril_equip}
+		ROOT = {check_variable = {resource_produced@aluminium < 1}}
+		ROOT = {check_variable = {resource_imported@aluminium < 1}}
+	}
+	immediate = {
+						ROOT = {clr_country_flag = can_build_mithril_equip}
+
+	}
+	option = {
+		name = mithril.2.a		
+	}
+	}
+	

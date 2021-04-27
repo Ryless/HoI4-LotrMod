@@ -18,6 +18,7 @@ set_technology = {
 	gw_artillery = 1
 	gwtank = 1
 	basic_light_tank = 1
+	main_mumakil = 1
 	early_submarine = 1
 	basic_submarine = 1
 	early_destroyer = 1

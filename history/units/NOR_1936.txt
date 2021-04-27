@@ -47,7 +47,7 @@ units = {
 instant_effect = {
 	add_equipment_production = {
 		equipment = {
-			type = infantry_equipment_0
+			type = infantry_equipment_m_0
 			creator = "NOR"
 		}
 		requested_factories = 1

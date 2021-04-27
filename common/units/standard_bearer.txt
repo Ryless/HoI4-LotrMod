@@ -41,5 +41,6 @@ sub_units = {
 		air_attack = 0.0
 		ap_attack = 0.0		
 		defense = 0.5
+		initiative = 0.05
 	}
 }

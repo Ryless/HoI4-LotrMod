@@ -18,4 +18,14 @@ spriteTypes = {
 	spriteType = { name = "GFX_unit_forest_infantry_icon_medium" 			textureFile = "gfx/interface/counters/divisions_large/unit_infantry_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_forest_infantry_icon_medium_white"							textureFile = "gfx/interface/counters/divisions_small/onmap_unit_infantry_icon.dds" noOfFrames = 2 }
 
+	spriteType = { name = "GFX_unit_troll_icon_medium"
+	textureFile = "gfx/interface/counters/divisions_large/unit_troll_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_troll_icon_medium_white"
+	textureFile = "gfx/interface/counters/divisions_small/onmap_unit_troll_icon.dds" noOfFrames = 2}
+
+	spriteType = { name = "GFX_unit_mumakil_icon_medium"
+	textureFile = "gfx/interface/counters/divisions_large/unit_mumakil_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_mumakil_icon_medium_white"
+	textureFile = "gfx/interface/counters/divisions_small/onmap_unit_mumakil_icon.dds" noOfFrames = 2}
+
 }

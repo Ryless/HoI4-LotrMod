@@ -2,6 +2,19 @@ ideas = {
 
 	country = {
 
+		warbred_mumakil = {
+		equipment_bonus = {
+			mumakil_equipment = {
+				armor_value = 0.05 reliability = 0.05
+				instant = yes
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 		HAI_endeavour = {
 
 			picture = generic_goods_red_bonus

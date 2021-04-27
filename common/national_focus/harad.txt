@@ -238,18 +238,7 @@ default = no
  cost = 10
   available_if_capitulated = yes
 	completion_reward = {
-		add_tech_bonus = {
-			name = warbred_mumakil
-			bonus = 1.0
-			uses = 1
-			category = cat_heavy_armor
-		}
-		add_tech_bonus = {
-			name = warbred_mumakil
-			bonus = 0.5
-			uses = 1
-			category = cat_medium_armor
-		}
+		add_ideas = warbred_mumakil
 	}
  }
 

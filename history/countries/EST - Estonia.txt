@@ -9,10 +9,7 @@ set_technology = {
 	tech_support = 1
 	tech_engineers = 1
 	trench_warfare = 1
-	gwtank = 1
-	basic_heavy_tank = 1
-	improved_heavy_tank = 1
-	super_heavy_tank = 1
+	main_battle_tank = 1
 }
 
 add_ideas = limited_conscription
