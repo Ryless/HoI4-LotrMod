@@ -13,7 +13,7 @@ state={
 		add_core_of = MEN
 		victory_points = { 10555 8 }
 	}	
-	manpower=2000000
+	manpower=120000
 	resources={
 	}
 	state_category = rural

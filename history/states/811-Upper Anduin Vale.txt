@@ -20,7 +20,7 @@ state={
 		add_core_of = ALB
 		victory_points = { 4209 10 }
 	}
-	manpower=2000000
+	manpower=120000
 	state_category = city
 	buildings_max_level_factor=1.000
 }

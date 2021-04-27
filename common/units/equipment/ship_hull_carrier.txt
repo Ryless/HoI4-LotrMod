@@ -113,7 +113,7 @@ equipments = {
 			chromium = 4
 		}
 		
-		manpower = 4500
+		manpower = 270
 	}
 
 	ship_hull_carrier_1 = {
@@ -177,7 +177,7 @@ equipments = {
 			steel = 1
 			chromium = 4
 		}
-		manpower = 5000
+		manpower = 300
 	}
 
 	ship_hull_carrier_3 = {
@@ -235,7 +235,7 @@ equipments = {
 			steel = 2
 			chromium = 4
 		}
-		manpower = 5500
+		manpower = 330
 	}
 
 	ship_hull_carrier_conversion_bb = {
@@ -279,7 +279,7 @@ equipments = {
 			steel = 1
 			chromium = 4
 		}
-		manpower = 5000
+		manpower = 300
 	}
 
 	ship_hull_carrier_conversion_ca = {
@@ -318,7 +318,7 @@ equipments = {
 		resources = {
 			chromium = 3
 		}
-		manpower = 1000
+		manpower = 60
 	}
 
 ###Prescripted designs for people without MtG
@@ -409,7 +409,7 @@ equipments = {
 			chromium = 3
 		}
 		
-		manpower = 4500
+		manpower = 270
 	}
 
 	carrier_2 = {
@@ -493,7 +493,7 @@ equipments = {
 			steel = 1
 			chromium = 4
 		}
-		manpower = 5000
+		manpower = 300
 	}
 
 	carrier_3 = {
@@ -540,7 +540,7 @@ equipments = {
 			steel = 2
 			chromium = 4
 		}
-		manpower = 5500
+		manpower = 330
 	}
 
 	carrier_4 = {
@@ -587,6 +587,6 @@ equipments = {
 			steel = 2
 			chromium = 5
 		}		
-		manpower = 6000
+		manpower = 360
 	}
 }

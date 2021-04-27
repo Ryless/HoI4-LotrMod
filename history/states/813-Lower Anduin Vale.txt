@@ -14,7 +14,7 @@ state={
 		add_core_of = ALB
 		victory_points = { 10268 5 }
 	}
-	manpower=1000000
+	manpower=60000
 	resources={
 		#aluminium=5
 		oil=2

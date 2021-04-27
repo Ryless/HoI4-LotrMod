@@ -27,7 +27,7 @@ sub_units = {
 		need = {
 			modern_tank_equipment = 50
 		}
-		manpower = 500
+		manpower = 30
 		max_organisation = 15
 		max_strength = 2
 		default_morale = 0.3
@@ -99,7 +99,7 @@ sub_units = {
 		need = {
 			troll_equipment = 50
 		}
-		manpower = 500
+		manpower = 30
 		max_organisation = 12
 		max_strength = 2
 		default_morale = 0.3
@@ -168,7 +168,7 @@ sub_units = {
 		need = {
 			mumakil_equipment = 50
 		}
-		manpower = 500
+		manpower = 30
 		max_organisation = 8
 		max_strength = 2
 		default_morale = 0.3

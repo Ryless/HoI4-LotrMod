@@ -46,7 +46,7 @@ equipments = {
 			rubber = 4
 		}
 		
-		manpower = 80
+		manpower = 4
 		fuel_consumption = 0.5
 	}
 	
@@ -93,7 +93,7 @@ equipments = {
 	
 		}
 		
-		manpower = 160
+		manpower = 8
 		fuel_consumption = 1.6
 	}
 
@@ -205,7 +205,7 @@ equipments = {
 			rubber = 5
 		}
 		
-		manpower = 80
+		manpower = 4
 		fuel_consumption = 0
 	}
 

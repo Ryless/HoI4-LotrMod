@@ -17,7 +17,7 @@ state={
 		add_core_of = GEO
 		add_core_of = IRE
 	}
-	manpower=8000000
+	manpower=480000
 	resources={
 		rubber=16
 	}

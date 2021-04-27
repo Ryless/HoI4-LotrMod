@@ -25,7 +25,7 @@ state={
 
 	}
 	
-	manpower=8000000
+	manpower=480000
 	resources={
 		tungsten=20
 	}

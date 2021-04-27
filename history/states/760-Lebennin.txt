@@ -19,7 +19,7 @@ state={
 
 	}
 	
-	manpower=15000000
+	manpower=900000
 	resources={
 		chromium=24
 		oil=10

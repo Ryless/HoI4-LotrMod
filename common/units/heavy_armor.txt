@@ -61,7 +61,7 @@ sub_units = {
 			heavy_tank_equipment = 40
 		}
 
-		manpower = 500
+		manpower = 30
 		max_organisation = 10
 		default_morale = 0.125
 		max_strength = 2
@@ -136,7 +136,7 @@ sub_units = {
 			trebuchet_equipment = 40
 		}
 
-		manpower = 500
+		manpower = 30
 		max_organisation = 10
 		default_morale = 0.125
 		max_strength = 2

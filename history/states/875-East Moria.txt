@@ -14,7 +14,7 @@ state={
 		add_core_of = NOR
 		victory_points = { 12227 15 }
 	}
-	manpower=250000
+	manpower=15000
 	resources={
 		steel = 12
 		aluminium = 2

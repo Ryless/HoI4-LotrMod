@@ -550,7 +550,7 @@ default = no
   	prerequisite = { focus =communityeffort}
  		cost = 10
   	available_if_capitulated = yes
-		completion_reward = { add_manpower = 50000 }
+		completion_reward = { add_manpower = 3000 }
  }
 
  #Focus for Search for the Entwives
@@ -718,7 +718,7 @@ default = no
 		completion_reward = {
 				remove_ideas = EST_lost_entwives
 				add_ideas = EST_entwives_reunited
-				add_manpower = 200000
+				add_manpower = 12000
 		}
  }
 

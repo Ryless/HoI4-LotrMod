@@ -14,7 +14,7 @@ state={
 		add_core_of = SWE
 		victory_points = { 12635 1 }
 	}
-	manpower=750000
+	manpower=45000
 	state_category = rural
 	buildings_max_level_factor=1.000
 }

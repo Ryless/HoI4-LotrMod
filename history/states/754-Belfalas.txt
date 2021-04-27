@@ -20,7 +20,7 @@ state={
 
 	}
 	
-	manpower=5000000
+	manpower=300000
 	resources={
 		oil=10
 		rubber=20

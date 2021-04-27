@@ -12,7 +12,7 @@ state={
 		}
 		add_core_of = KAZ
 	}
-	manpower=100000
+	manpower=6000
 	state_category = enclave
 	buildings_max_level_factor=1.000
 }

@@ -124,7 +124,7 @@ equipments = {
 			chromium = 2
 		}
 		
-		manpower = 600
+		manpower = 36
 	}
 
 	ship_hull_cruiser_1 = {
@@ -143,7 +143,7 @@ equipments = {
 		archetype = ship_hull_cruiser
 		priority = 1900
 		parent = ship_hull_cruiser_1
-		manpower = 800
+		manpower = 48
 		naval_speed = 25
 		reliability = 0.85
 		build_cost_ic = 1900
@@ -212,7 +212,7 @@ equipments = {
 		reliability = 0.90
 		max_strength = 120
 		naval_range = 4000
-		manpower = 1200
+		manpower = 72
 		resources = {
 			chromium = 2
 		}
@@ -284,7 +284,7 @@ equipments = {
 		parent = ship_hull_cruiser_3
 		naval_speed = 28
 		reliability = 0.95
-		manpower = 1400
+		manpower = 84
 		build_cost_ic = 2100
 		naval_range = 4500
 		max_strength = 130
@@ -437,7 +437,7 @@ equipments = {
 			#oil = 1
 			chromium = 3
 		}
-		manpower = 800
+		manpower = 48
 	}
 	light_cruiser_3 = {
 		year = 1940
@@ -488,7 +488,7 @@ equipments = {
 			#oil = 2
 			chromium = 3
 		}
-		manpower = 960
+		manpower = 57
 	}
 	
 	light_cruiser_4 = {
@@ -541,7 +541,7 @@ equipments = {
 			chromium = 4
 			steel = 1
 		}
-		manpower = 1140
+		manpower = 68
 	}
 
 	heavy_cruiser_1 = {
@@ -651,7 +651,7 @@ equipments = {
 			chromium = 3
 		}
 		
-		manpower = 1500
+		manpower = 90
 	}
 	
 	heavy_cruiser_2 = {
@@ -700,7 +700,7 @@ equipments = {
 			#oil = 1
 			chromium = 4
 		}		
-		manpower = 1700
+		manpower = 102
 	}
 	
 	heavy_cruiser_3 = {
@@ -750,7 +750,7 @@ equipments = {
 			#oil = 2
 			chromium = 4
 		}		
-		manpower = 1900
+		manpower = 114
 	}
 	
 	heavy_cruiser_4 = {
@@ -802,7 +802,7 @@ equipments = {
 			chromium = 5
 			steel = 1
 		}		
-		manpower = 2200
+		manpower = 132
 	}
 	
 	###### SPECIAL JAP TECH FROM FOCUS ######	
@@ -916,7 +916,7 @@ equipments = {
 			steel = 2
 		}
 		
-		manpower = 960
+		manpower = 57
 	}
 
 	###special snowflake hulls
@@ -1008,14 +1008,14 @@ equipments = {
 			steel = 3
 		}
 		
-		manpower = 960
+		manpower = 57
 	}
 	ship_hull_cruiser_panzerschiff = {
 		year = 1929
 		visual_level = 0
 		archetype = ship_hull_cruiser
 		priority = 1850
-		manpower = 1800
+		manpower = 108
 		build_cost_ic = 3500
 		naval_speed = 20
 		surface_visibility = 22
@@ -1075,7 +1075,7 @@ equipments = {
 		archetype = ship_hull_cruiser
 		priority = 1850
 		
-		manpower = 1800
+		manpower = 108
 		build_cost_ic = 3500
 		resources = {
 			steel = 3

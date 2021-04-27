@@ -17,7 +17,7 @@ state={
 		add_core_of = GEO
 
 	}
-	manpower=5000000
+	manpower=300000
 	resources={
 		steel=50
 		chromium=60

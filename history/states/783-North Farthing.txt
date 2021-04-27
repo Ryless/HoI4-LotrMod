@@ -14,7 +14,7 @@ state={
 		add_core_of = SHX
 		victory_points = { 9159 2 }
 	}
-	manpower=2000000
+	manpower=120000
 	resources={
 		oil=23
 		chromium=8

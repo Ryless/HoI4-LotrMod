@@ -20,7 +20,7 @@ state={
 		add_core_of = HON
 
 	}
-	manpower=2000000
+	manpower=120000
 	resources={
 		steel=50
 	}

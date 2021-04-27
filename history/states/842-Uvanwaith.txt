@@ -12,7 +12,7 @@ state={
 		add_core_of = SWE
 		victory_points = { 5087 2 }
 	}
-	manpower=800000
+	manpower=56000
 	resources={
 		tungsten=2
 		oil=2

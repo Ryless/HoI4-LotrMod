@@ -127,7 +127,7 @@ equipments = {
 			chromium = 3
 		}
 
-		manpower = 4000
+		manpower = 240
 	}
 	###Special snowflake hull
 
@@ -184,7 +184,7 @@ equipments = {
 		resources = {
 		}
 
-		manpower = 3200
+		manpower = 192
 	}
 	ship_hull_heavy_1 = {
 		year = 1922
@@ -336,7 +336,7 @@ equipments = {
 			chromium = 4
 		}
 
-		manpower = 5200
+		manpower = 312
 	}
 
 	ship_hull_heavy_3 = {
@@ -400,7 +400,7 @@ equipments = {
 			chromium = 4
 		}
 
-		manpower = 6000
+		manpower = 360
 	}
 
 	ship_hull_heavy_4 = {
@@ -464,7 +464,7 @@ equipments = {
 			chromium = 5
 		}
 
-		manpower = 6000
+		manpower = 360
 	}
 
 	ship_hull_super_heavy_1 = {
@@ -557,7 +557,7 @@ equipments = {
 			steel = 2
 			chromium = 4
 		}
-		manpower = 9000
+		manpower = 540
 	}
 
 	battleship_1 = { 
@@ -664,7 +664,7 @@ equipments = {
 			chromium = 3
 		}
 
-		manpower = 6000
+		manpower = 360
 	}
 	
 	battleship_2 = {
@@ -717,7 +717,7 @@ equipments = {
 			steel = 1
 			chromium = 4
 		}
-		manpower = 6600
+		manpower = 396
 		
 	}
 	
@@ -772,7 +772,7 @@ equipments = {
 			steel = 1
 			chromium = 5
 		}
-		manpower = 7000
+		manpower = 420
 
 	}
 	
@@ -827,7 +827,7 @@ equipments = {
 			steel = 2
 			chromium = 5
 		}
-		manpower = 7400
+		manpower = 444
 		
 	}
 
@@ -947,7 +947,7 @@ equipments = {
 			steel = 1
 			chromium = 4
 		}
-		manpower = 9000
+		manpower = 540
 	}
 	
 	SH_battleship_2 = {
@@ -1067,7 +1067,7 @@ equipments = {
 			steel = 2
 			chromium = 5
 		}
-		manpower = 10000
+		manpower = 600
 		
 	}
 	battle_cruiser_1 = {
@@ -1122,7 +1122,7 @@ equipments = {
 			chromium = 3
 		}
 		
-		manpower = 3500
+		manpower = 210
 	}
 	
 	battle_cruiser_2 = {
@@ -1176,7 +1176,7 @@ equipments = {
 			steel = 1
 			chromium = 4
 		}
-		manpower = 4000
+		manpower = 240
 	}
 
 

@@ -13,7 +13,7 @@ state={
 		add_core_of = MEN
 
 	}	
-	manpower=2000000
+	manpower=160000
 	resources={
 		tungsten=78
 		steel=20

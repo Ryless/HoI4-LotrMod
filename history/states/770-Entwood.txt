@@ -18,7 +18,7 @@ state={
 		add_core_of = EST
 		victory_points = { 4488 1 }
 	}
-	manpower=2750000
+	manpower=165000
 	resources={
 		chromium=70
 		steel=16

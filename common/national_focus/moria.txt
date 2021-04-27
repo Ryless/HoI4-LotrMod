@@ -147,7 +147,7 @@ default = no
 	 	factor = 5
 		modifier = {
 			add = 10
-			has_manpower < 1000
+			has_manpower < 100
 		}
 	 }
 	 available = { has_war = yes }
@@ -159,7 +159,7 @@ default = no
 	 prerequisite = { focus = everylastman focus = morementotheforges focus = reforgearmorintoweapons focus = reforgeweaponsintoarmor }
 	 cost = 10
 	 available_if_capitulated = yes
-	 completion_reward = { add_manpower = 50000 }
+	 completion_reward = { add_manpower = 3000 }
  }
 
  #Focus for plan for the future
@@ -170,7 +170,7 @@ default = no
 	 factor = 5
 	 modifier = {
 		 add = 10
-		 has_manpower > 10000
+		 has_manpower > 1000
 	 }
 	}
 	available = { has_war = yes }
@@ -338,7 +338,7 @@ default = no
  		cost = 10
   	available_if_capitulated = no
 		completion_reward = {
-			add_manpower = -50000
+			add_manpower = -3000
 			remove_ideas = NOR_loose_balrog
 		}
  }
@@ -543,7 +543,7 @@ default = no
  		prerequisite = { focus = restoretheupperlayers}
  		cost = 15
   	available_if_capitulated = no
-		completion_reward = { add_manpower = 120000 }
+		completion_reward = { add_manpower = 7200 }
  }
 
  #Focus for Improve our Equipment
@@ -786,7 +786,7 @@ default = no
  		cost = 12
   	available_if_capitulated = no
 		completion_reward = {
-			add_manpower = 250000
+			add_manpower = 15000
 		}
  }
 

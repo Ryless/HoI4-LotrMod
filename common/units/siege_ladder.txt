@@ -24,7 +24,7 @@ sub_units = {
 			support_equipment = 15
 			infantry_equipment = 50
 		}
-		manpower = 1000
+		manpower = 60
 		max_organisation = 55
 		default_morale = 0.2
 		max_strength = 20
@@ -72,7 +72,7 @@ sub_units = {
 		need = {
 			support_equipment = 15
 		}
-		manpower = 300
+		manpower = 18
 		max_organisation = 0
 		default_morale = 0.1
 		max_strength = 0.2

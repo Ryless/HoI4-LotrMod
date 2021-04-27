@@ -14,7 +14,7 @@ state={
 		add_core_of = ARG
 
 	}
-	manpower=2000000
+	manpower=120000
 	resources={
 		rubber=23
 		oil=7

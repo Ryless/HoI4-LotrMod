@@ -16,7 +16,7 @@ state={
 		add_core_of = DOM
 		victory_points = { 4681 50 }
 	}
-	manpower=5000000
+	manpower=300000
 	resources={
 		steel=16
 		oil=8

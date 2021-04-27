@@ -15,7 +15,7 @@ state={
 		add_core_of = PRU
 
 	}
-	manpower=4000000
+	manpower=240000
 	resources={
 	}
 	state_category = city

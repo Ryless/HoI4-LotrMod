@@ -17,7 +17,7 @@ state={
 		add_core_of = JOR
 
 	}
-	manpower=500000
+	manpower=30000
 	resources={
 		#aluminium=30
 		chromium=16

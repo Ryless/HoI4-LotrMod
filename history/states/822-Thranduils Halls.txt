@@ -15,7 +15,7 @@ state={
 		add_core_of = MEN
 		victory_points = { 1726 35 }
 	}	
-	manpower=8000000
+	manpower=480000
 	resources={
 		oil=10
 		chromium=32

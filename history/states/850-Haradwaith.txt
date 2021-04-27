@@ -16,7 +16,7 @@ state={
 		victory_points = { 10190 10 }
 		victory_points = { 11921 35 }
 	}
-	manpower=12000000
+	manpower=720000
 	resources={
 		chromium=5
 		oil=8

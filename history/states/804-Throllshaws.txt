@@ -14,7 +14,7 @@ state={
 		add_core_of = URG
 		victory_points = { 1754 5 }
 	}
-	manpower=1000000
+	manpower=60000
 	resources={
 		steel = 16
 	}

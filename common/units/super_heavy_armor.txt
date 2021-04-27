@@ -26,7 +26,7 @@ sub_units = {
 			super_heavy_tank_equipment = 15
 		}
 
-		manpower = 500
+		manpower = 30
 		max_organisation = 9
 		default_morale = 0.1
 		max_strength = 2

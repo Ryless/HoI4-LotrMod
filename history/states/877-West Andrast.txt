@@ -16,7 +16,7 @@ state={
 			12879 = { naval_base = 5 }
 		}
 	}
-	manpower=250000
+	manpower=15000
 	state_category = rural
 	buildings_max_level_factor=1.000
 }

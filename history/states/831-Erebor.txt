@@ -17,7 +17,7 @@ state={
 		add_core_of = ECU
 		victory_points = { 7882 50 }
 	}
-	manpower=6000000
+	manpower=360000
 	resources={
 		steel=43
 		oil=8

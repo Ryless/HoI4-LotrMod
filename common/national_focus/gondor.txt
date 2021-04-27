@@ -139,8 +139,8 @@ continuous_focus_position = { x = 50 y = 2000 }
  		cost = 10
   	available_if_capitulated = yes
 		completion_reward = {
-			GEO = { add_manpower = -225000 }
-			JOR = { add_manpower = 225000 }
+			GEO = { add_manpower = -13500 }
+			JOR = { add_manpower = 13500 }
 		}
  }
 
@@ -1377,7 +1377,7 @@ continuous_focus_position = { x = 50 y = 2000 }
   	prerequisite = { focus = invadebyland  focus = invadebyair  focus = invadebysea}
   	cost = 10
    	available_if_capitulated = yes
-		completion_reward = { add_manpower = 200000 add_ideas = GEO_dedicated_invaders }
+		completion_reward = { add_manpower = 12000 add_ideas = GEO_dedicated_invaders }
   }
 
 	#Focus for Infrastructure Effort 2
